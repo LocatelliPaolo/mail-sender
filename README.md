@@ -1,3 +1,5 @@
+this goes in config/environments/development.rb
+
 config.action_mailer.default_url_options = { host: '0.0.0.0:8080' }
 
   config.action_mailer.delivery_method = :smtp
